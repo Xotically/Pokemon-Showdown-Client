@@ -1,12 +1,12 @@
 {
-  "name": "Pokemon-Showdown-Client",
+  "name": "Pokemon-World-Client",
   "version": "0.10.2",
-  "author": "Guangcong Luo <guangcongluo@gmail.com> (http://guangcongluo.com)",
-  "homepage": "http://play.pokemonshowdown.com",
+  "author": "Xotic",
+  "homepage": "http://pokemon-world.online",
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zarel/Pokemon-Showdown-Client.git"
+    "url": "https://github.com/Xotically/Client.git"
   },
   "scripts": {
     "test": "eslint --config=.eslintrc.js --cache --cache-file=eslint-cache/base js/*.js data/graphics.js data/pokedex-mini.js data/pokedex-mini-bw.js && eslint --config=githooks/.eslintrc.js --cache --cache-file=eslint-cache/build githooks/update githooks/build-indexes",
